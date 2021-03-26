@@ -105,7 +105,7 @@ public class ConfirmViewController: UIViewController {
 	
 	public override func viewDidLoad() {
 		super.viewDidLoad()
-
+        
 		view.backgroundColor = UIColor.black
 
         loadScrollView()
